@@ -1,0 +1,3 @@
+### Hraci %player% se nepodarilo zabita Withera.
+### Wither zabil hrace %player%.
+### %player% neprezil palbu strel od Withera.

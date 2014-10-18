@@ -1,0 +1,4 @@
+### Zivot hrace %player% byl ukraden nemytym Endermanem.
+### Hrac %player% soutezil s Endermanem v zirani, prohral.
+### Enderman ukradl hraci %player% dusi.
+### Hrac %player% podal Endermanovi ruku, ten mu ji ukradl.

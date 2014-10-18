@@ -1,0 +1,3 @@
+### %player% se udusil v bloku. 
+### Na %player% spadla hora.
+### %player% zustal zasypan v dole.

@@ -1,0 +1,4 @@
+### Hrac %player% zapomnel, ze dychani je nezbytne pro zivot
+### Hrac %player% se stebla chyta, ale marne.
+### Hrac %player% se utopil.
+### Hraci %player% dosel kyslik.

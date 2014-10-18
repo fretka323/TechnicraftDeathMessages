@@ -1,0 +1,3 @@
+### Hladovy Zombie prave okusuje ostatky hrace %player%.
+### Hrac %player% se stal obedem pro hladove Zombie.
+### Hrac %player% se pridal k armade Zombii.

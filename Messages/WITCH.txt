@@ -1,0 +1,3 @@
+### %player% byl obetovan pri ritualu zle Carodejnice.
+### Proti kouzlum Carodejnice se %player% proste nemohl ubranit.
+### Zla carodejnice zabila hrace %player%.

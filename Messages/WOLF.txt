@@ -1,0 +1,3 @@
+### Hrace %player% sezral vlk.
+### %player% se pokusil nakrmit vlka, tomu to jidlo nestacilo.
+### Smecka vlku ustvala hrace %player%. 

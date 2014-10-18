@@ -1,0 +1,3 @@
+### Hrac %player% se pokusil ulovit Ender draka, zbyl z nej jen popel.
+### Skupina drakobijcu neuspela pri lovu draka, mezi nimi byl i %player%.
+### %player% zemrel na zraneni zpusobena Ender drakem.

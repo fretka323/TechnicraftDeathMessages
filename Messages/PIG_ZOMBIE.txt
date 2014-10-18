@@ -1,0 +1,3 @@
+### %player% proti sobe postval stado nebezpecnych Pig zombií.
+### %player% zapomnel ze Pig zombie jsou stadni zvirata.
+### %player% byl udupan nastvanymi Pig Zombiemi.

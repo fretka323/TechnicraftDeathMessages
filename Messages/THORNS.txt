@@ -1,0 +1,2 @@
+### Trni Ruzenku uspalo, hrace %player% vsak zabilo.
+### Hrac %player% se nabodl na obri trn.
