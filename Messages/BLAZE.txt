@@ -1,0 +1,3 @@
+### Nastvany blaze upalil %player% zaziva.
+### Z hrace %player% jsou nyni uhliky.
+### Hrac %player% se pokusil ziskat Blaze rod, zbyly z nej uhliky.

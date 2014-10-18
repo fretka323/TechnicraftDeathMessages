@@ -1,0 +1,3 @@
+### %player% uhorel.
+### Z hrace %player% zbyli jen uhliky.
+### Kacir %player% byl upalen pekelnym ohnem.

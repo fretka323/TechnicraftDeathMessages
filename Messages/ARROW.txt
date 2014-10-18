@@ -1,0 +1,2 @@
+### Nahodny sip prostrelil lebku hrace %player%.
+### %player% byl strelen do kolene.

@@ -1,0 +1,2 @@
+### Hrac %player% si zahral s Ghastem tennis, prohral.
+### Ghast zabil hrace %player%.

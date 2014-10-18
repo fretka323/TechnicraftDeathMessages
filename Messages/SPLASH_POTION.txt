@@ -1,0 +1,2 @@
+### Hraci %player% upadl Lektvar, rozprostrel se na vsechny strany a usmrtil ho.
+### Hrac %player% dostal primy zasah Lektvarem.

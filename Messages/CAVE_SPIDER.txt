@@ -1,0 +1,3 @@
+### %player% byl chycen do siti jeskynniho Pavouka.
+### %player% byl otraven jeskynnim Pavoukem.
+### Hrace %player% nasli zamotaneho v sitich jeskynniho Pavouka.

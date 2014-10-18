@@ -1,0 +1,4 @@
+### Hrac %player% zmizel v prazdnote vesmiru.
+### Hrac %player% nahle zmizel v temnote.
+### %player% spadl do nekonecne propasti.
+### %player% nasel void.

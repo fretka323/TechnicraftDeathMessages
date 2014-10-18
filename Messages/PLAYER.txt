@@ -1,0 +1,3 @@
+### Sileny %killer% vzal %weapon% a zabil %player%
+### %killer% nemilosrdne popravil %player% za pomoci %weapon%.
+### %player% a %killer% meli manzelskou hadku, %player% ji neprezil.
