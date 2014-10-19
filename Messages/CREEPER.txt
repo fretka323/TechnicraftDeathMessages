@@ -1,3 +1,3 @@
-###&4%player% &f byl vyslan do vesmiru zaludnym creeperem.
-###Objimat creepery se nevyplati, hraci %player% jeden vybouchl do obliceje.
-###Creeperi maji vecne vybusnou naladu, %player% to od nich bohuzel schytal.
+### Hrac %player% dosahl orbity za pomoci Creepera.
+### Hrac %player% drazdil Creepera bosou nohou.
+### Snad se po dnesku hrac %player% pouci a nebude si zahravat s Creepery.

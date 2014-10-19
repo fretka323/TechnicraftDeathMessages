@@ -1,5 +1,5 @@
 ### Hrace %player% je nyni mozne seskrabovat ze zeme lopatkou. 
 ### Hrac %player% spadl z hory.
 ### Hrac %player% nevykrocil spravnou nohou.
-### RedBull kridla nedava, co, %player%?
+### Red Bull kridla nedava, co, %player%?
 ### Skakani bez padaku? Znova, %player%? 

@@ -1,3 +1,4 @@
-### %player% byl chycen do siti jeskynniho Pavouka.
-### %player% byl otraven jeskynnim Pavoukem.
-### Hrace %player% nasli zamotaneho v sitich jeskynniho Pavouka.
+### %player% byl chycen do siti jeskynniho pavouka.
+### %player% byl otraven jeskynnim pavoukem.
+### Hrace %player% nasli zamotaneho v sitich jeskynnich pavouku.
+### Hrac %player% zjistil, ze jeskynni jed neni vhodny napoj.

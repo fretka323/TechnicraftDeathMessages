@@ -1,2 +1,3 @@
-### Hrac %player% si zahral s Ghastem tennis, prohral.
-### Ghast zabil hrace %player%.
+### Hrac %player% se nestacil vyhnout Ghastove ohnive kouli.
+### Na Ghasty se musi opatrne, %player%!
+### Takhle z Ghasta slzicku nedostanes, %player%!

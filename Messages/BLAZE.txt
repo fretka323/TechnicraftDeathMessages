@@ -1,3 +1,4 @@
-### Nastvany blaze upalil %player% zaziva.
+### Rozzhaveny Blaze upalil hrace %player% zaziva.
 ### Z hrace %player% jsou nyni uhliky.
-### Hrac %player% se pokusil ziskat Blaze rod, zbyly z nej uhliky.
+### Hrac %player% shorel pri boji s Blazem.
+### Vypada to, ze hrac %player% si na svuj blaze rod jeste chvili pocka.

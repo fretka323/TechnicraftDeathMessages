@@ -1,1 +1,2 @@
 ### Kouzla zabila hrace %player%. 
+### Hrac %player% by si nemel tolik zahravat s magii.

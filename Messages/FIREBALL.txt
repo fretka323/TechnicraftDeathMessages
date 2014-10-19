@@ -1,3 +1,2 @@
-### %player% uhorel.
-### Z hrace %player% zbyli jen uhliky.
-### Kacir %player% byl upalen pekelnym ohnem.
+### Hrac %player% se nestacil vyhnout horici kouli.
+### Hrace %player% trefila koule ohne.

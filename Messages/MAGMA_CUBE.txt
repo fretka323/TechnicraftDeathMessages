@@ -1,3 +1,2 @@
-### Zeleny Slime zautocil ze zalohy na hrace %player%.
-### %player% byl vcucnut Slimem.
-### %player% je nyni soucasti zivouciho pudingu - slima.
+### Na hraci %player% si pochutnala Magma Cube.
+### Hrac %player% je nyni soucasti ziveho pudinku - Magma Cube.
