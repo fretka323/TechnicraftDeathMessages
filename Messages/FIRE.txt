@@ -1,4 +1,4 @@
 ### Hrac %player% uhorel.
 ### Z hrace %player% zbyly jen uhliky.
 ### Hrac %player% zahynul v ohni.
-### Slapat na ohen se nevyplaci, vid, %player%?
+### Slapat do ohne se nevyplaci, vid, %player%?
