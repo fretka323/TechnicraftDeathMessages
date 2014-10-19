@@ -1,3 +1,4 @@
-### %player% uhorel.
-### Z hrace %player% zbyli jen uhliky.
-### Kacir %player% byl upalen pekelnym ohnem.
+### Hrac %player% uhorel.
+### Z hrace %player% zbyly jen uhliky.
+### Hrac %player% zahynul v ohni.
+### Slapat na ohen se nevyplaci, vid, %player%?
