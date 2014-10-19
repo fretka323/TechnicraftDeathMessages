@@ -1,2 +1,2 @@
-### %player% byl zabit padajici horou.
-### Hraci %player% spadlo neco na hlavu, co, to uz nezjistil.
+### Hrac %player% byl zabit padajici horou.
+### Pozor na hlavu, %player%!
