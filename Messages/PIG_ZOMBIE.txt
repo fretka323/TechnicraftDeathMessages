@@ -1,3 +1,4 @@
-### %player% proti sobe postval stado nebezpecnych Pig zombií.
-### %player% zapomnel ze Pig zombie jsou stadni zvirata.
-### %player% byl udupan nastvanymi Pig Zombiemi.
+### Hrac %player% proti sobe postval stado nebezpecnych Pig Zombies.
+### Hrac %player% zapomnel, ze Pig Zombie jsou stadni zvirata.
+### Hrac %player% podal ruku Pig Zombie. Ten mu ji utrhl.
+### Horda rozzurenych Pig Zombies rozervala hrace %player% na kousicky.
