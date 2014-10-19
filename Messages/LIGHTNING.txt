@@ -1,1 +1,2 @@
-### Hrace %player% uderil blesk.
+### Do hrace %player% uderil blesk.
+### Bohove nejsou stastni a seslali na hrace %player% pomstu.
