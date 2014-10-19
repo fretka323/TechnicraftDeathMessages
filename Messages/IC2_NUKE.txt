@@ -1,1 +1,2 @@
-### %player% zemrel pri vybuchu atomove bomby.
+### Vybuch atomove bomby pohrbil udoli, ve kterem zil hrac %player%.
+### Dejiny se opakuji aneb Hirosima u hrace %player% doma.
