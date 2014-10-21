@@ -1,3 +1,3 @@
-### Zeleny Slime zautocil ze zalohy na hrace %player%.
+### Kostka slizu prepadla hrace %player%.
+### Hrac %player% se dostal do slizke situace.
 ### %player% byl vcucnut Slimem.
-### %player% je nyni soucasti zivouciho pudingu - slima.
