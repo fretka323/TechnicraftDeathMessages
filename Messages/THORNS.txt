@@ -1,2 +1,2 @@
-### Trni Ruzenku uspalo, hrace %player% vsak zabilo.
-### Hrac %player% se nabodl na obri trn.
+### Hrac %player% zjistil, ze hraci se umi branit.
+### Hrace %player% udolal kus brneni.
