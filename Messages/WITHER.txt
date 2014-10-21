@@ -1,3 +1,3 @@
-### Hraci %player% se nepodarilo zabita Withera.
+### Hrac %player% selhal, jeho wither unika!
 ### Wither zabil hrace %player%.
-### %player% neprezil palbu strel od Withera.
+### Hrac %player% neprezil utok withera.
