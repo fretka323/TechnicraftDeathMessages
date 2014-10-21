@@ -1,4 +1,4 @@
 ### Bajny Herobrine zabil hrace %player%.
 ### %player% byl zabit z neznamych pricin.
-### Welfare93 si hral s konzoli, %player% to neprezil.
-### Nikdo nevi, co hrace %player% zabilo.
+### Welfare93 si hral s konzoli - tentokrat to odnesl hrac %player%.
+### Uz ani historikove si nepamatuji, co zabilo hrace %player%.
