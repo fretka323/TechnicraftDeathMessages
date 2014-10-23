@@ -1,0 +1,2 @@
+### Mumie uskrtila hrace %player% kusem obvazu.
+### Hrace %player% zabila Mumie.
