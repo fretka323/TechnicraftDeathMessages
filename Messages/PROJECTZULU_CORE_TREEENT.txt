@@ -1,0 +1,3 @@
+### Rozezleny Ent zarazil hrace %player% do zeme.
+### Rozezleny Ent zavalil hrace %player% hromadou listi.
+### Stromovous si spletl hrace %player% se skretem.
