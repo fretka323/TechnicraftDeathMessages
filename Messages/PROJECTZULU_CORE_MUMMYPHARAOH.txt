@@ -1,0 +1,2 @@
+### Hrace %player% zabil mumifikovany Faraon.
+### Faraon umlatil hrace %player% s ankhem.
