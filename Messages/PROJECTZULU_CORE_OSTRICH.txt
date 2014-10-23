@@ -1,0 +1,2 @@
+### Pstros vbehl hraci %player% do cesty.
+### Hrace %player% prepral Pstros.
