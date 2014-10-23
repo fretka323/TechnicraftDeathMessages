@@ -1,3 +1,4 @@
 ### Hrac %player% se stal potravou pro hladoveho Aligatora.
 ### Hrac %player% byl sezran Aligatorem.
-### Zuby Aligatora promenily hrace %player% v krvavou kasi.  
+### Zuby Aligatora promenily hrace %player% v krvavou kasi.
+### Na hraci %player% si pochutnal Aligator.

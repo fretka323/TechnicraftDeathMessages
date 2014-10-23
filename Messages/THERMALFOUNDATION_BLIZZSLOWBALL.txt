@@ -1,0 +1,2 @@
+### Hrac %player% hral s blizzem koulovanou, zemrel.
+### Blizz chtel hrat koulovanou, hrac %player% to neprezil.
