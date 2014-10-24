@@ -1,2 +1,3 @@
 ### Hrac %player% byl zabit padajici horou.
 ### Pozor na hlavu, %player%!
+### Hrac %player% by si mel zopakovat zakony gravitace.

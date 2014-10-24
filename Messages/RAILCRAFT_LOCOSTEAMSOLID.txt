@@ -1,0 +1,2 @@
+### Hrac %player% si hral na kolejich.
+### Hrace %player% prejel vlak.

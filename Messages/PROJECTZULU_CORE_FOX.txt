@@ -1,1 +1,2 @@
 ### Hrac %player% byl zabit Liskou.
+### Hrac %player% se dozvedel odpoved na otazku What does the fox say?
