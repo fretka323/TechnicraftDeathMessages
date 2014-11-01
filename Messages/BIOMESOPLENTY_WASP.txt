@@ -1,0 +1,2 @@
+### Vosy dobodaly hrace %player%.
+### %player% chtel med, nedoslo mu ze z vos ho nedostane.
