@@ -2,3 +2,4 @@
 ### Hrac %player% zemrel z neznamch duvodu.
 ### Hrac %player% se rozhodl skoncovat se zivotem.
 ### Hrac %player% spachal sebevrazdu.
+### Hrac %player% se rozhodl podivat do zahrobi.
