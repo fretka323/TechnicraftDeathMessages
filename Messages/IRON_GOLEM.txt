@@ -1,0 +1,4 @@
+### Hrac %player% chtel ukrast vesnicana.
+### Iron Golem poslal hrace %player% do vedlejsi vesnice.
+### %player% stouchl do Iron Golema. On stouchl do neho.
+### iron Golem propleskl hrace %palyer%.
