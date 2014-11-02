@@ -1,0 +1,3 @@
+### Ve vzduchu jde citit krev hrace %player% a pach pouzite naslapne miny.
+### %player% hrál miny. Neumi to.
+### %player% slapl kam nemel.
