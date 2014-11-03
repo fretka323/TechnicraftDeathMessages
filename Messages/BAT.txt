@@ -1,1 +1,2 @@
 ### Hraci %player% vletel netopyr do oka.
+### Batman zabil hrace %player%.
