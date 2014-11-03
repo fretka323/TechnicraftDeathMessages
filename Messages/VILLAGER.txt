@@ -1,1 +1,2 @@
-Hrac %player% byl zabit neznamym pachatelem z poklidne vesnice.
+### Hrac %player% byl zabit neznamym pachatelem z poklidne vesnice.
+### Villager odmitl obchod hrace %player%.
