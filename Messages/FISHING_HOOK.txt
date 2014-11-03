@@ -1,2 +1,1 @@
-### Nekdo by se tu mel naucit rybarit, co %player%?
 ### %player% pouzil sam sebe jako navnadu.
