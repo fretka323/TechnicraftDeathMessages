@@ -1,2 +1,1 @@
-### Nekidejte na hrace %player% blato. Nema to rad.
 ### %player% se udusil bahnem.
