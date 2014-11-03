@@ -1,3 +1,2 @@
 ### Hrac %player% zemrel pri manipulaci se zabavni pyrotechnikou.
 ### Obal petardy varoval "zivotu nebezpecne", hrac %player% neuposlechl...
-### %player% si hral s petardama.
