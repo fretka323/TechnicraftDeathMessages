@@ -1,1 +1,1 @@
-### ITNT je silnejsi, to si pamatuj %player%.
+### Hrac %player% doplatil na vyrobu industrialniho TNT.
