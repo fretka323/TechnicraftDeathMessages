@@ -1,2 +1,1 @@
-### Pred hracem %player% se odpalil terorista.
-### Nekdo se pred hracem %player% naparoval az vybouchl.
+### Hrac %player% neprezil teroristicky utok.
