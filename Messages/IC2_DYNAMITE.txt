@@ -1,2 +1,2 @@
-### %player% si hral s dynamite.
-### %player% si spletl dynamit a svicky.
+### Hrac %player% si hral s dynamitem.
+### Hrac %player% si chtel zahrat na Nobela. Jeho dynamit ale fungoval trochu jinak...
