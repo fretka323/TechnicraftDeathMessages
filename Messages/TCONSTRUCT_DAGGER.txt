@@ -1,1 +1,1 @@
-### %player hral predstaveni Romeo a Julie. %killer% ovsem dyku vymenil za pravou.
+### Hrac %player% byl zapichnut ostrou dykou.
