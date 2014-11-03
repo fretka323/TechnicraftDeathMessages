@@ -1,2 +1,1 @@
-### %player% se zadusil mechem.
-### %player prohral koulovanou s mechem.
+### Hrac %player% se zadusil mechem.
