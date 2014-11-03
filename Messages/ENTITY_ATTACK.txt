@@ -1,2 +1,2 @@
-### Hrace %player% zabil herobrime.
-### %player% zemrel rukou nezname bytosti.
+### Hrace %player% zabil Herobrime.
+### Zlo v podobe Sogna zabilo hrace %player%.
