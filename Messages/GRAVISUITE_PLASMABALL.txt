@@ -1,0 +1,2 @@
+### %player% si hral s kuluckou plasmatu.
+### %player% nevi ze plasma je horke.
