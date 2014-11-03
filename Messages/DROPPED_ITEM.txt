@@ -1,2 +1,2 @@
-### %player% se udusil v odpadcich.
-### %player% se zasypal itemy.
+### Hrac %player% se udusil v odpadcich.
+### Hrac %player% byl zasypan harampadim.
