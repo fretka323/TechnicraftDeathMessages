@@ -1,1 +1,1 @@
-### %player% se udusil bahnem.
+### Hrac %player% se udusil bahnem.
