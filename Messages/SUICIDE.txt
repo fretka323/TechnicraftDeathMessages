@@ -1,4 +1,4 @@
 ### Bajny Herobrine zavrazdil hrace %player%.
-### Hrac %player% zemrel z neznamch duvodu.
+### Hrac %player% zemrel z neznamych duvodu.
 ### Hrac %player% se rozhodl skoncovat se zivotem.
 ### Hrac %player% spachal sebevrazdu.
