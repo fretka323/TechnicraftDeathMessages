@@ -1,1 +1,2 @@
 ### Hrac %player% prohral v koulovane.
+### Na hrace %player% upadl kus snehulaka.
