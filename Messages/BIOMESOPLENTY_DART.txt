@@ -1,1 +1,2 @@
 ### %player% byl zastrelen.
+### Hrace %player% zabila sipka.
