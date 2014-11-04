@@ -1,0 +1,3 @@
+### Hrac %player% se snazil vyhnout strelam kostlivce, avsak neuspel.
+### %player% byl strelen do kolene.
+### Hrac %player byl odstrelen kostlivcem.
