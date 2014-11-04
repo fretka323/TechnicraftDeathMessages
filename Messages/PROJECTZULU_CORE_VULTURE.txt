@@ -1,0 +1,2 @@
+### Nad hracem %player% nyni krouzi Supi.
+### Hrace %player% zabil Sup.
