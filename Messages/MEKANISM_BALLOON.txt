@@ -1,0 +1,2 @@
+### Balon vytahl hrace %player% do vysin.
+### Hraci %player% uletel balon. I s jeho rukou.
