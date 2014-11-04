@@ -1,1 +1,2 @@
 ### Nastvany Item Frame zabil hrace %player%.
+### Hrac %player% visi natazeny v Item Frame.
