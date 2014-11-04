@@ -1,1 +1,1 @@
-### hrace %player% zabil ptak.
+### Hrace %player% zabil ptak.
