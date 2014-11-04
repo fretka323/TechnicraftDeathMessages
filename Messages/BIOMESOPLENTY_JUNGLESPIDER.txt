@@ -1,1 +1,2 @@
 ### Hrace %player% zakousl neobycejny pavouk.
+### Hrac %player% je obdivovatelem jungle pavouku. Navzdy.
